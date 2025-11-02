@@ -75,3 +75,7 @@ This project uses the Northwind database, which is a sample database created by 
 ## Author
 
 RookieCoder12
+
+## Organization
+
+Manipal Institute of Technology, Bengaluru
